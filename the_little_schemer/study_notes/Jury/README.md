@@ -1,1 +1,0 @@
-Reading log for JuryNullification!
