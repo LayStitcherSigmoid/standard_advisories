@@ -46,8 +46,9 @@ The way math is taught in schools tends to leave very capable people with self-e
 It really, really doesn't matter in my opinion. You will spend the most time acquiring your first language. After that, your second language will come easier; the third will come easier than the second; and so on. Eventually you might be picking up languages within a weekend and dropping them within a week. That "eventually" might come as quickly as within your first year or two. All of that is to say, it doesn't matter which language you start with. Just pick one and start!
 
 I like recommending these languages as starters (in no particular order):
+
 | Name   | Industry Popularity | Paradigm         | Type System |
-|========|=====================|==================|=============|
+|:--     |:-:                  |:--               |:--          |
 | Python | 1                   | Object-Oriented  | Dynamic     |
 | Elixir | > 50                | Functional       | Static      |
 | Java   | 3                   | Object-Oriented  | Static      |
@@ -59,6 +60,7 @@ I like recommending these languages as starters (in no particular order):
 | C#     | 5                   | Object-Oriented  | Static      |
 | Prolog | 39                  | Logic/Relational | Dynamic     |
 | SQL    | 8                   | Query/Relational | Static      |
+
 * [Industry Popularity](https://www.tiobe.com/tiobe-index/)
 
 It's important to keep in mind that programming languages are defined by their implementations. Programmers typically refer to the syntax that is common to these implementations, which is how we can say "yeah, that looks like Python." I recommend not just learning the syntax of a language, but also really digging deep into the technology underlying how the language is implemented.
